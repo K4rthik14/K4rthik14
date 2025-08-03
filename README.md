@@ -1,4 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Karthik S a Second-Year Computer Science Student at GCEK Kannur
+I'm passionate about Artificial Intelligence and Python development. I enjoy building projects that solve real problems and help me learn as I go.
+
+🔍 Interests:
+
+AI & Machine Learning
+Python programming
+Blockchain
+Building small tools and experiments
+📚 Currently Learning:
+Python (core + libraries like NumPy, Pandas)
+Basics of Machine Learning
+Computer Science fundamentals (C, Data Structures)
+🛠️ Check out my projects below! I'm constantly learning and sharing what I build.
 
 <!--
 **Karthiksaya14/Karthiksaya14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

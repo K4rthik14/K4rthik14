@@ -54,7 +54,6 @@ I aim to break into the world of cutting-edge AI, contribute to open source, and
 - 📈 Build & launch a profitable SaaS product
 - 🌍 Contribute to Open Source & crack GSoC 2026
 - 🧠 Learn & master AI + CS core concepts
-- 💰 Secure a high-paying job to fund my MIT dream
 
 ---
 

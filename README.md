@@ -59,10 +59,6 @@ I aim to break into the world of cutting-edge AI, contribute to open source, and
 
 ### 📌 Projects & Initiatives
 
-- `🧠 AI Agents`: Personal agent framework experiments
-- `📊 ML Projects`: Hands-on with datasets & real problems
-- `⚙️ Freelance Tools`: Python automations for clients
-- `🧮 DSA in Java`: Problem-solving repo (LeetCode/GFG)
 - `💻 100 Days of Code`: Daily logs and experiments
 
 🛠 Check out my pinned repositories to see what I'm building!

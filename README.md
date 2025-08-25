@@ -10,9 +10,7 @@
 
 ### 🧠 About Me
 
-I'm a passionate learner and builder focused on Artificial Intelligence, Python, and building tools that make a difference. I believe in learning by doing — turning ideas into working code and solving real problems.
-
-I aim to break into the world of cutting-edge AI, contribute to open source, and eventually build a SaaS business that empowers others — all while working toward my goal of studying at MIT.
+I'm a passionate learner and builder focused on Artificial Intelligence, Python, and building tools that make a difference. I believe in learning by doing — turning ideas into working code and solving real problems
 
 ---
 

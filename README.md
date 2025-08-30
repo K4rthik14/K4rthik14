@@ -40,5 +40,5 @@ I keep track of my experiments in one repo and polish projects in another.
 ---
 
 ### 📬 Connect
-- [LinkedIn](https://www.linkedin.com/in/karthiksaya14)  
+- [LinkedIn](https://www.linkedin.com/in/karthik-saya/)  
 - Email: karthiksaya14@gmail.com  

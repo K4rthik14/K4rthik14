@@ -1,76 +1,44 @@
- <h1 align="center">👋 Hey there, I'm Karthik S</h1>
+ <h1 align="center">👋 Hey, I'm Karthik S</h1>
 
 <p align="center">
-🎓 Second-Year Computer Science Student @ GCEK Kannur <br>
-💡 AI Enthusiast | Developer | Dreamer | Doer <br>
-🚀 On a mission to build intelligent agents & impactful products
+2nd Year CSE Student @ GCEK Kannur <br>
+Interested in AI Agents, Machine Learning, and Core CS
 </p>
 
 ---
 
 ### 🧠 About Me
-
-I'm a passionate learner and builder focused on Artificial Intelligence, Python, and building tools that make a difference. I believe in learning by doing — turning ideas into working code and solving real problems
+I’m learning and building in **AI agents** and **machine learning**, while improving my CS fundamentals like DSA and Java.  
+I keep track of my experiments in one repo and polish projects in another.
 
 ---
 
 ### 🔥 Current Focus
-
-- 🤖 **AI Agents & Autonomous Systems** (LangGraph, AutoGen, OpenAgents)
-- 🧠 **Machine Learning** (Foundations, Projects, Competitions)
-- 📚 **DSA & Java** (Mastering problem solving and OOP fundamentals)
-- 💼 **Freelance AI Projects** (Building to earn weekly income)
-- 🌍 **GSoC 2026 Prep** (2nd Attempt – Open Source & Community Involvement)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-- **Languages:** Python, Java, C
-- **AI/ML:** NumPy, Pandas, scikit-learn, LangChain, OpenAI API
-- **Web:** HTML, CSS, JavaScript (basics), Flask
-- **Tools:** Git, GitHub, VS Code, Linux, Replit, Google Colab
-- **Other Interests:** Blockchain, SaaS, Linux, GPTs
+- AI Agents (CrewAI, LangGraph, LlamaIndex)  
+- Core ML concepts and projects  
+- DSA & Java (for problem solving and interviews)  
+- Open source contributions (targeting GSoC 2026)  
+- Small freelance AI projects  
 
 ---
 
-### 🧪 Currently Learning
-
-- Advanced **AI Agent Design**
-- **Data Structures & Algorithms** in Java
-- **OOP Concepts & Java Projects**
-- **Computer Science Fundamentals**
-- Open Source & Contribution Workflows (for GSoC)
+### 🛠️ Tech Stack
+- **Languages:** Python, Java, C  
+- **AI/ML:** NumPy, Pandas, scikit-learn, PyTorch, LangChain  
+- **Web:** Flask, FastAPI (basics), HTML/CSS/JS  
+- **Tools:** Git, GitHub, Linux, VS Code, Colab  
 
 ---
 
-### 💡 Goals for 2025–26
-
-- ✅ Land an AI internship (📌 Infosys AI Internship starts Sept 5!)
-- 🎯 Get selected for Google Cloud GenAI Exchange Program
-- 💼 Earn via freelance AI gigs
-- 📈 Build & launch a profitable SaaS product
-- 🌍 Contribute to Open Source & crack GSoC 2026
-- 🧠 Learn & master AI + CS core concepts
+### 📌 Current Goals
+- Start Infosys AI Internship (Sept 2025)  
+- Contribute to open source AI projects  
+- Prepare for GSoC 2026 (second attempt)  
+- Launch a small SaaS project  
+- Stay consistent with AI + CS fundamentals  
 
 ---
 
-### 📌 Projects & Initiatives
-
-- `💻 100 Days of Code`: Daily logs and experiments
-
-🛠 Check out my pinned repositories to see what I'm building!
-
----
-
-### 📬 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/karthiksaya14)
-- 📩 Mail: karthiksaya14@gmail.com
-- 🌐 [Portfolio Website](#) _(Coming Soon)_
-
----
-
-> “Build relentlessly. Learn ruthlessly. Rise regardless.”  
-> — *Karthik S*
-
+### 📬 Connect
+- [LinkedIn](https://www.linkedin.com/in/karthiksaya14)  
+- Email: karthiksaya14@gmail.com  

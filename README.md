@@ -4,6 +4,6 @@
 ### ⚡ About Me  
 - Tech: Python, Java, C | Git, Linux  
 - Focus: AI Agents, ML, DSA/Java, Open Source  
-- Next: Infosys AI Internship | SaaS Launch  
+- Next: Infosys AI Internship | Contributing to GSOC26 
 
 📫 [LinkedIn](#) | [Email](#)

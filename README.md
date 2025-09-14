@@ -6,4 +6,4 @@
 - Focus: AI Agents, ML, DSA/Java, Open Source  
 - Next: Infosys AI Internship | Contributing to GSOC26 
 
-📫 [LinkedIn](#) | [Email](#)
+📫 [LinkedIn](https://www.linkedin.com/in/karthik-saya/) | [Email](karthiksaya14@gmail.com)

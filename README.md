@@ -28,4 +28,4 @@
 
 ---
 ### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/karthik-saya/) | [Email](mailto:karthiksaya14@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/karthik-saya/) | [Email](mailto:codewithkarthii.com)

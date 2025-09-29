@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey, I'm Karthik S</h1>
 <p align="center">
-  2nd Year CSE @ GCEK Kannur | AI Agents | ML | Core CS
+  2nd Year CSE| AI Agents | ML | Core CS
 </p>
 
 ---
@@ -28,4 +28,4 @@
 
 ---
 ### 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/karthik-saya/) | [Email](mailto:codewithkarthii.com)
+[Email](mailto:codewithkarthii.com)

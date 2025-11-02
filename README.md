@@ -23,8 +23,7 @@
 
 ### 🌱 Current Goals
 - Master AI agent frameworks and build a portfolio of autonomous AI projects  
-- Contribute to GSoC 2026  
-- Secure high-impact AI internships  
+- Contribute to GSoC 2026 
 
 ---
 ### 📫 Connect with Me

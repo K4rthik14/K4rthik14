@@ -9,7 +9,6 @@
 - 2nd year CS student building things at the intersection of **AI agents and developer tooling**
 - Shipped **CircuitGuard** (PCB defect detection) during my Infosys Springboard internship
 - Building **LeadWall** — a real-time competition leaderboard platform used across college events
-- Exploring **GSoC 2026** contributions in AI/ML open-source ecosystems
 - Co-lead of **µLearn GCEK** — running tech initiatives on campus
 
 ---

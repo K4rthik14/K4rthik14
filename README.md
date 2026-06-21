@@ -1,64 +1,70 @@
 <h1 align="center">Hey, I'm Karthik S 👋</h1>
 <p align="center">
-  🚀 CS Undergrad @ GCEK '28 • AI Agents • Open Source • Builder
+  🚀 CS Undergrad @ GCEK '28 • AI Engineer in the making • Building RetailSense AI
 </p>
 
 ---
 
 ## 🧠 About Me
-- 2nd-year Computer Science student passionate about building **AI-powered developer tools**
-- Love working at the intersection of **AI agents, automation, and real-world problem solving**
-- Built and shipped impactful projects during internships and college initiatives
+- 3rd-year Computer Science student (S5) at Government College of Engineering Kannur, deep in an applied AI/ML learning arc
+- Founding technical member @ **RetailSense AI** — an incubator-selected computer vision startup for retail analytics
+- Working toward a career as an **Applied AI Engineer**, building things people actually use rather than just demos
+- Portfolio: [k4rthik.in](https://k4rthik.in)
 
 ---
 
 ## 🚀 Projects & Work
-- 🔧 **CircuitGuard**  
-  → PCB defect detection system built during Infosys Springboard internship  
-
-- 🏆 **LeadWall** *(in progress)*  
-  → Real-time leaderboard platform for college competitions  
-
-- 🤖 **dev-logger-agent**  
-  → AI agent that auto-generates daily developer logs from Git history  
+- 🛒 **RetailSense AI**
+  → Computer vision retail analytics — YOLOv8 + ByteTrack edge nodes, FastAPI + TimescaleDB backend, React dashboard
+- 🔍 **askmy-notes**
+  → RAG pipeline over personal notes — FastAPI + ChromaDB
+- 🤖 **dev-logger-agent**
+  → LangGraph ReAct agent that auto-generates daily developer logs from Git history, published to PyPI
   → [View Project](https://github.com/K4rthik14/dev-logger-agent)
+- 🧩 **DayFlow OS**
+  → Multi-agent productivity system — Streamlit + Gemini 2.0 Flash
+- 🐚 **karsh**
+  → A Unix shell built from scratch in C
+- 🔧 **CircuitGuard**
+  → PCB defect detection (EfficientNet-B4, 98% accuracy) — Infosys Springboard internship, IIM Indore national finalist
+- 🏆 **LeadWall**
+  → Real-time leaderboard platform for college competitions — React + TypeScript + Firebase
 
 ---
 
 ## 🛠️ Tech Stack
-**Languages**  
-`Python` `C` `C++` `Java`  
+**Languages**
+`Python` `C` `C++` `Java`
 
-**AI / ML**  
-`LangChain` `LangGraph` `CrewAI` `Ollama` `OpenCV`  
+**AI / ML**
+`LangChain` `LangGraph` `CrewAI` `Ollama` `OpenCV` `YOLOv8` `ChromaDB`
 
-**Web & Backend**  
-`React` `FastAPI` `Firebase` `Vercel`  
+**Web & Backend**
+`React` `FastAPI` `Streamlit` `TimescaleDB` `Firebase` `Vercel`
 
-**Tools & Dev Environment**  
-`Git` `GitHub Actions` `Linux` `Neovim` `VS Code`  
+**Tools & Dev Environment**
+`Git` `GitHub Actions` `CachyOS (Arch Linux)` `fish` `Neovim` `VS Code`
 
 ---
 
 ## 🎯 Current Focus
-- Building and shipping **AI agents for developers**
-- Contributing to **open-source AI/ML projects**
-- Strengthening core CS concepts:  
-  → Operating Systems  
-  → DBMS  
-  → System Design  
+- Working through an intensive AI/ML cohort, currently deep in LLMs and agentic systems
+- Pushing **RetailSense AI** toward real pilot shop deployment
+- Daily DSA practice heading into 3rd year
+- Targeting remote Applied AI Engineer roles and YC-stage startups
 
 ---
 
 ## 🌱 Community
-- Co-lead @ **µLearn GCEK**  
-  → Organizing and driving tech initiatives on campus  
+- Campus Co-Lead @ **µLearn GCEK**
+  → Organizing and driving tech initiatives on campus
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: codewithkarthii@gmail.com  
-- 🐦 Twitter: https://twitter.com/K4rthik14  
+- 🌐 Portfolio: [k4rthik.in](https://k4rthik.in)
+- 📧 Email: codewithkarthii@gmail.com
+- 🐦 Twitter: https://twitter.com/K4rthik14
 
 ---
 

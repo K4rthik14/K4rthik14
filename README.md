@@ -1,73 +1,87 @@
-<h1 align="center">Hey, I'm Karthik S 👋</h1>
-<p align="center">
-  🚀 CS Undergrad @ GCEK '28 • AI Engineer in the making • Building RetailSense AI
-</p>
+# Hey, I'm Karthik 👋
+
+> aspiring AI engineer building things, breaking things, and shipping anyway.
+
+I'm currently obsessed with applied AI, computer vision, LLMs, and building products from scratch.
+
+Most of my time goes into turning ideas into working software, learning in public, and improving a little every day.
 
 ---
 
-## 🧠 About Me
-- 3rd-year Computer Science student (S5) at Government College of Engineering Kannur, deep in an applied AI/ML learning arc
-- Founding technical member @ **RetailSense AI** — an incubator-selected computer vision startup for retail analytics
-- Working toward a career as an **Applied AI Engineer**, building things people actually use rather than just demos
-- Portfolio: [k4rthik.in](https://k4rthik.in)
+## currently building
+
+### 🛒 RetailSense AI
+
+Privacy-first retail analytics powered by edge AI.
+
+* YOLO + ByteTrack
+* FastAPI backend
+* Real-time analytics
+* Multi-camera edge pipeline
+* React dashboard
+
+Trying to solve real-world retail problems instead of benchmark problems.
+
+### 🤖 askmy-notes
+
+A RAG system that lets me chat with my own notes.
+
+### 🧠 dev-logger-agent
+
+A LangGraph agent that converts Git history into developer logs.
+Published on PyPI.
+
+### 🐚 karsh
+
+A Unix shell written from scratch in C.
+
+### 🔧 CircuitGuard
+
+PCB defect detection using deep learning.
 
 ---
 
-## 🚀 Projects & Work
-- 🛒 **RetailSense AI**
-  → Computer vision retail analytics — YOLOv8 + ByteTrack edge nodes, FastAPI + TimescaleDB backend, React dashboard
-- 🔍 **askmy-notes**
-  → RAG pipeline over personal notes — FastAPI + ChromaDB
-- 🤖 **dev-logger-agent**
-  → LangGraph ReAct agent that auto-generates daily developer logs from Git history, published to PyPI
-  → [View Project](https://github.com/K4rthik14/dev-logger-agent)
-- 🧩 **DayFlow OS**
-  → Multi-agent productivity system — Streamlit + Gemini 2.0 Flash
-- 🐚 **karsh**
-  → A Unix shell built from scratch in C
-- 🔧 **CircuitGuard**
-  → PCB defect detection (EfficientNet-B4, 98% accuracy) — Infosys Springboard internship, IIM Indore national finalist
-- 🏆 **LeadWall**
-  → Real-time leaderboard platform for college competitions — React + TypeScript + Firebase
+## things I'm learning
+
+* LLMs & Agentic AI
+* Computer Vision
+* Distributed AI Systems
+* MLOps
+* System Design
+* DSA
 
 ---
 
-## 🛠️ Tech Stack
-**Languages**
-`Python` `C` `C++` `Java`
+## tech i enjoy
 
-**AI / ML**
-`LangChain` `LangGraph` `CrewAI` `Ollama` `OpenCV` `YOLOv8` `ChromaDB`
+**AI**
 
-**Web & Backend**
-`React` `FastAPI` `Streamlit` `TimescaleDB` `Firebase` `Vercel`
+Python • LangGraph • LangChain • Ollama • OpenCV • YOLO • ChromaDB
 
-**Tools & Dev Environment**
-`Git` `GitHub Actions` `CachyOS (Arch Linux)` `fish` `Neovim` `VS Code`
+**Backend**
 
----
+FastAPI • PostgreSQL • TimescaleDB • Firebase
 
-## 🎯 Current Focus
-- Working through an intensive AI/ML cohort, currently deep in LLMs and agentic systems
-- Pushing **RetailSense AI** toward real pilot shop deployment
-- Daily DSA practice heading into 3rd year
-- Targeting remote Applied AI Engineer roles and YC-stage startups
+**Frontend**
+
+React • TypeScript
+
+**Tools**
+
+Git • Docker • Linux • Neovim • VS Code
 
 ---
 
-## 🌱 Community
-- Campus Co-Lead @ **µLearn GCEK**
-  → Organizing and driving tech initiatives on campus
+## right now
+
+* building RetailSense AI
+* shipping side projects
+* contributing to open source
+* preparing for AI engineering roles
+* trying to become ridiculously good at building
 
 ---
 
-## 📫 Connect With Me
-- 🌐 Portfolio: [k4rthik.in](https://k4rthik.in)
-- 📧 Email: codewithkarthii@gmail.com
-- 🐦 Twitter: https://twitter.com/K4rthik14
+> *Build. Ship. Repeat.*
 
----
-
-<p align="center">
-  ⚡ "Build fast. Learn faster."
-</p>
+🌐 **k4rthik.in**

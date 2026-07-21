@@ -4,6 +4,7 @@ Building AI systems.
 
 Current project:
 
+
 RetailSense AI
 
 Recent experiments:
@@ -11,9 +12,9 @@ Recent experiments:
 - RAG
 - LangGraph
 - Computer Vision
-- CUDA
-- FastAPI
-- Linux
+- AI Harness
+- LLM Finetuning
+- Core ML
 
 Most repositories are experiments.
 Some become products.

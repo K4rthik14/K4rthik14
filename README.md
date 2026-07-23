@@ -1,5 +1,4 @@
 # Karthik
-![Alternative Text](images/)
 
 Building AI systems.
 
